@@ -1,0 +1,19 @@
+{
+  "name": "calculator-mehran--prog",
+  "version": "1.0.2",
+  "description": "A Simple calculator with typescript,node js and inquirer",
+  "main": "index.js",
+  "bin" : "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MEHRAN KHAN",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
